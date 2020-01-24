@@ -1,8 +1,4 @@
 import React from 'react';
-import {ScrollView, Text} from 'react-native';
+import Navigator from './src/navigation';
 
-export default () => (
-  <ScrollView>
-    <Text>Hello</Text>
-  </ScrollView>
-);
+export default () => <Navigator />;
