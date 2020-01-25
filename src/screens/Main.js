@@ -1,14 +1,45 @@
-import React, {useState} from 'react';
-import {View, StyleSheet, Text, Image} from 'react-native';
+import React, {useState, useCallback} from 'react';
+import {View, Text, Image, TouchableOpacity} from 'react-native';
+import Geolocation from '@react-native-community/geolocation';
+import Config from 'react-native-config';
+import geocode from '../store/geocode_api';
 
 import NumberInput from '../components/inputs/NumberInput';
 
+import styles from '../assets/css/styles';
 import logo from '../assets/images/logo.png';
-import {TouchableOpacity} from 'react-native-gesture-handler';
 
-export default () => {
+export default ({navigation: {navigate}}) => {
   const [gasConsumption, setGasConsumption] = useState('');
   const [alcoholConsumption, setAlcoholConsumption] = useState('');
+
+  const getCity = useCallback(async () => {
+    try {
+      await Geolocation.getCurrentPosition(
+        async position => {
+          const {
+            coords: {latitude, longitude},
+          } = position;
+
+          const {data} = await geocode.get(
+            // eslint-disable-next-line prettier/prettier
+            `/json?latlng=${latitude},${longitude}&key=${Config.GOOGLE_API_KEY}`,
+          );
+
+          const cityObj = data.results[0].address_components.find(x =>
+            x.types.includes('locality'),
+          );
+
+          navigate('calc', {cityObj, alcoholConsumption, gasConsumption});
+        },
+        error => error,
+        {enableHighAccuracy: true, timeout: 20000, maximumAge: 1000},
+      );
+    } catch (error) {
+      console.log(error);
+      throw error;
+    }
+  }, [alcoholConsumption, gasConsumption, navigate]);
 
   return (
     <View style={styles.container}>
@@ -26,40 +57,9 @@ export default () => {
         placeholder="Consumo de Etanol"
       />
 
-      <TouchableOpacity style={styles.button}>
+      <TouchableOpacity onPress={getCity} style={styles.button}>
         <Text style={styles.buttonText}>Calcular!</Text>
       </TouchableOpacity>
     </View>
   );
 };
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#f5f5f5',
-    justifyContent: 'center',
-    alignItems: 'center',
-    padding: 20,
-  },
-
-  logo: {
-    height: 300,
-    aspectRatio: 1,
-  },
-
-  button: {
-    height: 45,
-    backgroundColor: 'black',
-    // alignSelf: 'stretch',
-    width: 100,
-    alignItems: 'center',
-    justifyContent: 'center',
-    borderRadius: 20,
-  },
-
-  buttonText: {
-    color: '#ffffff',
-    fontWeight: 'bold',
-    fontSize: 16,
-  },
-});
