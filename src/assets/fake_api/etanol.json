@@ -1,0 +1,974 @@
+[
+  {
+    "MUNICIPIO": "ADAMANTINA",
+    "POSTOS": 8,
+    "PREÇO MÉDIO": "2,894",
+    "DESVIO PADRÃO": "0,069",
+    "PREÇO MÍNIMO": "2,73",
+    "PREÇO MÁXIMO": "2,959",
+    "MARGEM MÉDIA": "0,242"
+  },
+  {
+    "MUNICIPIO": "AMERICANA",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "2,984",
+    "DESVIO PADRÃO": "0,088",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,291"
+  },
+  {
+    "MUNICIPIO": "AMPARO",
+    "POSTOS": 11,
+    "PREÇO MÉDIO": "3,123",
+    "DESVIO PADRÃO": "0,07",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,239",
+    "MARGEM MÉDIA": "0,351"
+  },
+  {
+    "MUNICIPIO": "ARACATUBA",
+    "POSTOS": 25,
+    "PREÇO MÉDIO": "2,992",
+    "DESVIO PADRÃO": "0,069",
+    "PREÇO MÍNIMO": "2,939",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,298"
+  },
+  {
+    "MUNICIPIO": "ARARAQUARA",
+    "POSTOS": 18,
+    "PREÇO MÉDIO": "3,065",
+    "DESVIO PADRÃO": "0,041",
+    "PREÇO MÍNIMO": "2,998",
+    "PREÇO MÁXIMO": "3,12",
+    "MARGEM MÉDIA": "0,41"
+  },
+  {
+    "MUNICIPIO": "ARARAS",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,097",
+    "DESVIO PADRÃO": "0,088",
+    "PREÇO MÍNIMO": "2,996",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,363"
+  },
+  {
+    "MUNICIPIO": "ASSIS",
+    "POSTOS": 24,
+    "PREÇO MÉDIO": "2,981",
+    "DESVIO PADRÃO": "0,114",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,183"
+  },
+  {
+    "MUNICIPIO": "ATIBAIA",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,073",
+    "DESVIO PADRÃO": "0,128",
+    "PREÇO MÍNIMO": "2,897",
+    "PREÇO MÁXIMO": "3,298",
+    "MARGEM MÉDIA": "0,346"
+  },
+  {
+    "MUNICIPIO": "AVARE",
+    "POSTOS": 11,
+    "PREÇO MÉDIO": "3,191",
+    "DESVIO PADRÃO": "0,097",
+    "PREÇO MÍNIMO": "3,049",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,479"
+  },
+  {
+    "MUNICIPIO": "BARRETOS",
+    "POSTOS": 15,
+    "PREÇO MÉDIO": "2,99",
+    "DESVIO PADRÃO": "0,128",
+    "PREÇO MÍNIMO": "2,789",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,272"
+  },
+  {
+    "MUNICIPIO": "BARUERI",
+    "POSTOS": 18,
+    "PREÇO MÉDIO": "3,116",
+    "DESVIO PADRÃO": "0,072",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,263",
+    "MARGEM MÉDIA": "0,359"
+  },
+  {
+    "MUNICIPIO": "BAURU",
+    "POSTOS": 27,
+    "PREÇO MÉDIO": "2,987",
+    "DESVIO PADRÃO": "0,074",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,256"
+  },
+  {
+    "MUNICIPIO": "BEBEDOURO",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,026",
+    "DESVIO PADRÃO": "0,067",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,15",
+    "MARGEM MÉDIA": "0,377"
+  },
+  {
+    "MUNICIPIO": "BIRIGUI",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "2,886",
+    "DESVIO PADRÃO": "0,104",
+    "PREÇO MÍNIMO": "2,74",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,217"
+  },
+  {
+    "MUNICIPIO": "BOTUCATU",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,181",
+    "DESVIO PADRÃO": "0,091",
+    "PREÇO MÍNIMO": "3,079",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,4"
+  },
+  {
+    "MUNICIPIO": "BRAGANCA PAULISTA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "2,976",
+    "DESVIO PADRÃO": "0,076",
+    "PREÇO MÍNIMO": "2,849",
+    "PREÇO MÁXIMO": "3,098",
+    "MARGEM MÉDIA": "0,192"
+  },
+  {
+    "MUNICIPIO": "CACAPAVA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,038",
+    "DESVIO PADRÃO": "0,059",
+    "PREÇO MÍNIMO": "2,929",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,404"
+  },
+  {
+    "MUNICIPIO": "CAMPINAS",
+    "POSTOS": 43,
+    "PREÇO MÉDIO": "3,032",
+    "DESVIO PADRÃO": "0,142",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,397",
+    "MARGEM MÉDIA": "0,309"
+  },
+  {
+    "MUNICIPIO": "CARAGUATATUBA",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,432",
+    "DESVIO PADRÃO": "0,122",
+    "PREÇO MÍNIMO": "3,199",
+    "PREÇO MÁXIMO": "3,594",
+    "MARGEM MÉDIA": "0,674"
+  },
+  {
+    "MUNICIPIO": "CARAPICUIBA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,057",
+    "DESVIO PADRÃO": "0,108",
+    "PREÇO MÍNIMO": "2,839",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,378"
+  },
+  {
+    "MUNICIPIO": "CATANDUVA",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,027",
+    "DESVIO PADRÃO": "0,061",
+    "PREÇO MÍNIMO": "2,929",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,343"
+  },
+  {
+    "MUNICIPIO": "COSMOPOLIS",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": 3,
+    "DESVIO PADRÃO": "0,065",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,351"
+  },
+  {
+    "MUNICIPIO": "COTIA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,18",
+    "DESVIO PADRÃO": "0,099",
+    "PREÇO MÍNIMO": "3,09",
+    "PREÇO MÁXIMO": "3,399",
+    "MARGEM MÉDIA": "0,411"
+  },
+  {
+    "MUNICIPIO": "CRUZEIRO",
+    "POSTOS": 6,
+    "PREÇO MÉDIO": "3,137",
+    "DESVIO PADRÃO": "0,063",
+    "PREÇO MÍNIMO": "3,049",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,42"
+  },
+  {
+    "MUNICIPIO": "CUBATAO",
+    "POSTOS": 5,
+    "PREÇO MÉDIO": "3,405",
+    "DESVIO PADRÃO": "0,081",
+    "PREÇO MÍNIMO": "3,299",
+    "PREÇO MÁXIMO": "3,523",
+    "MARGEM MÉDIA": "0,46"
+  },
+  {
+    "MUNICIPIO": "DIADEMA",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "3,041",
+    "DESVIO PADRÃO": "0,114",
+    "PREÇO MÍNIMO": "2,879",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,31"
+  },
+  {
+    "MUNICIPIO": "DRACENA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "2,983",
+    "DESVIO PADRÃO": "0,023",
+    "PREÇO MÍNIMO": "2,94",
+    "PREÇO MÁXIMO": "2,999",
+    "MARGEM MÉDIA": "0,238"
+  },
+  {
+    "MUNICIPIO": "EMBU DAS ARTES",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,133",
+    "DESVIO PADRÃO": "0,111",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,289",
+    "MARGEM MÉDIA": "0,38"
+  },
+  {
+    "MUNICIPIO": "FRANCA",
+    "POSTOS": 22,
+    "PREÇO MÉDIO": "3,159",
+    "DESVIO PADRÃO": "0,032",
+    "PREÇO MÍNIMO": "3,037",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,55"
+  },
+  {
+    "MUNICIPIO": "GARCA",
+    "POSTOS": 7,
+    "PREÇO MÉDIO": "3,028",
+    "DESVIO PADRÃO": "0,12",
+    "PREÇO MÍNIMO": "2,979",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,325"
+  },
+  {
+    "MUNICIPIO": "GUARATINGUETA",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,158",
+    "DESVIO PADRÃO": "0,164",
+    "PREÇO MÍNIMO": "2,989",
+    "PREÇO MÁXIMO": "3,399",
+    "MARGEM MÉDIA": "0,428"
+  },
+  {
+    "MUNICIPIO": "GUARUJA",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,203",
+    "DESVIO PADRÃO": "0,117",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,399",
+    "MARGEM MÉDIA": "0,382"
+  },
+  {
+    "MUNICIPIO": "GUARULHOS",
+    "POSTOS": 25,
+    "PREÇO MÉDIO": "3,057",
+    "DESVIO PADRÃO": "0,099",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,377"
+  },
+  {
+    "MUNICIPIO": "HORTOLANDIA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "2,977",
+    "DESVIO PADRÃO": "0,045",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,204"
+  },
+  {
+    "MUNICIPIO": "IBITINGA",
+    "POSTOS": 8,
+    "PREÇO MÉDIO": "3,053",
+    "DESVIO PADRÃO": "0,039",
+    "PREÇO MÍNIMO": "3,02",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,434"
+  },
+  {
+    "MUNICIPIO": "INDAIATUBA",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "3,097",
+    "DESVIO PADRÃO": "0,083",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,259",
+    "MARGEM MÉDIA": "0,324"
+  },
+  {
+    "MUNICIPIO": "ITANHAEM",
+    "POSTOS": 6,
+    "PREÇO MÉDIO": "3,252",
+    "DESVIO PADRÃO": "0,114",
+    "PREÇO MÍNIMO": "3,099",
+    "PREÇO MÁXIMO": "3,428",
+    "MARGEM MÉDIA": "0,471"
+  },
+  {
+    "MUNICIPIO": "ITAPECERICA DA SERRA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,149",
+    "DESVIO PADRÃO": "0,085",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,412"
+  },
+  {
+    "MUNICIPIO": "ITAPETININGA",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,183",
+    "DESVIO PADRÃO": "0,172",
+    "PREÇO MÍNIMO": "2,939",
+    "PREÇO MÁXIMO": "3,53",
+    "MARGEM MÉDIA": "0,491"
+  },
+  {
+    "MUNICIPIO": "ITAPEVA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,223",
+    "DESVIO PADRÃO": "0,219",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,659",
+    "MARGEM MÉDIA": "0,332"
+  },
+  {
+    "MUNICIPIO": "ITAPIRA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,112",
+    "DESVIO PADRÃO": "0,105",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,298",
+    "MARGEM MÉDIA": "0,307"
+  },
+  {
+    "MUNICIPIO": "ITAPOLIS",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,112",
+    "DESVIO PADRÃO": "0,104",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,349",
+    "MARGEM MÉDIA": "0,422"
+  },
+  {
+    "MUNICIPIO": "ITAQUAQUECETUBA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,192",
+    "DESVIO PADRÃO": "0,016",
+    "PREÇO MÍNIMO": "3,149",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,461"
+  },
+  {
+    "MUNICIPIO": "ITATIBA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,019",
+    "DESVIO PADRÃO": "0,089",
+    "PREÇO MÍNIMO": "2,859",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,258"
+  },
+  {
+    "MUNICIPIO": "ITU",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,068",
+    "DESVIO PADRÃO": "0,171",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,499",
+    "MARGEM MÉDIA": "0,322"
+  },
+  {
+    "MUNICIPIO": "JABOTICABAL",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,001",
+    "DESVIO PADRÃO": "0,065",
+    "PREÇO MÍNIMO": "2,94",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,248"
+  },
+  {
+    "MUNICIPIO": "JACAREI",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "3,027",
+    "DESVIO PADRÃO": "0,059",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,269"
+  },
+  {
+    "MUNICIPIO": "JALES",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,017",
+    "DESVIO PADRÃO": "0,081",
+    "PREÇO MÍNIMO": "2,959",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,357"
+  },
+  {
+    "MUNICIPIO": "JAU",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "2,991",
+    "DESVIO PADRÃO": "0,078",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,246"
+  },
+  {
+    "MUNICIPIO": "JOSE BONIFACIO",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "2,967",
+    "DESVIO PADRÃO": "0,123",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,38"
+  },
+  {
+    "MUNICIPIO": "JUNDIAI",
+    "POSTOS": 22,
+    "PREÇO MÉDIO": "3,094",
+    "DESVIO PADRÃO": "0,079",
+    "PREÇO MÍNIMO": "2,979",
+    "PREÇO MÁXIMO": "3,297",
+    "MARGEM MÉDIA": "0,347"
+  },
+  {
+    "MUNICIPIO": "LEME",
+    "POSTOS": 17,
+    "PREÇO MÉDIO": "2,915",
+    "DESVIO PADRÃO": "0,103",
+    "PREÇO MÍNIMO": "2,789",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,275"
+  },
+  {
+    "MUNICIPIO": "LIMEIRA",
+    "POSTOS": 23,
+    "PREÇO MÉDIO": "2,965",
+    "DESVIO PADRÃO": "0,086",
+    "PREÇO MÍNIMO": "2,859",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,276"
+  },
+  {
+    "MUNICIPIO": "LINS",
+    "POSTOS": 15,
+    "PREÇO MÉDIO": "3,093",
+    "DESVIO PADRÃO": "0,074",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,259",
+    "MARGEM MÉDIA": "0,369"
+  },
+  {
+    "MUNICIPIO": "LORENA",
+    "POSTOS": 8,
+    "PREÇO MÉDIO": "3,14",
+    "DESVIO PADRÃO": "0,162",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,399",
+    "MARGEM MÉDIA": "0,332"
+  },
+  {
+    "MUNICIPIO": "MARILIA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "2,968",
+    "DESVIO PADRÃO": "0,08",
+    "PREÇO MÍNIMO": "2,879",
+    "PREÇO MÁXIMO": "3,149",
+    "MARGEM MÉDIA": "0,288"
+  },
+  {
+    "MUNICIPIO": "MATAO",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "3,146",
+    "DESVIO PADRÃO": "0,049",
+    "PREÇO MÍNIMO": "3,059",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,445"
+  },
+  {
+    "MUNICIPIO": "MAUA",
+    "POSTOS": 11,
+    "PREÇO MÉDIO": "3,099",
+    "DESVIO PADRÃO": "0,144",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,323"
+  },
+  {
+    "MUNICIPIO": "MIRASSOL",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "2,885",
+    "DESVIO PADRÃO": "0,011",
+    "PREÇO MÍNIMO": "2,869",
+    "PREÇO MÁXIMO": "2,899",
+    "MARGEM MÉDIA": "0,242"
+  },
+  {
+    "MUNICIPIO": "MOCOCA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,014",
+    "DESVIO PADRÃO": "0,096",
+    "PREÇO MÍNIMO": "2,849",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,379"
+  },
+  {
+    "MUNICIPIO": "MOGI DAS CRUZES",
+    "POSTOS": 20,
+    "PREÇO MÉDIO": "3,166",
+    "DESVIO PADRÃO": "0,068",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,409"
+  },
+  {
+    "MUNICIPIO": "MOGI GUACU",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,1",
+    "DESVIO PADRÃO": "0,105",
+    "PREÇO MÍNIMO": "2,959",
+    "PREÇO MÁXIMO": "3,269",
+    "MARGEM MÉDIA": "0,447"
+  },
+  {
+    "MUNICIPIO": "MOGI MIRIM",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,009",
+    "DESVIO PADRÃO": "0,164",
+    "PREÇO MÍNIMO": "2,789",
+    "PREÇO MÁXIMO": "3,297",
+    "MARGEM MÉDIA": "0,316"
+  },
+  {
+    "MUNICIPIO": "MONTE ALTO",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,051",
+    "DESVIO PADRÃO": "0,075",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,382"
+  },
+  {
+    "MUNICIPIO": "OLIMPIA",
+    "POSTOS": 7,
+    "PREÇO MÉDIO": "2,906",
+    "DESVIO PADRÃO": "0,147",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,169",
+    "MARGEM MÉDIA": "0,202"
+  },
+  {
+    "MUNICIPIO": "OSASCO",
+    "POSTOS": 23,
+    "PREÇO MÉDIO": "3,119",
+    "DESVIO PADRÃO": "0,136",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,305"
+  },
+  {
+    "MUNICIPIO": "OURINHOS",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "3,103",
+    "DESVIO PADRÃO": "0,142",
+    "PREÇO MÍNIMO": "2,779",
+    "PREÇO MÁXIMO": "3,259",
+    "MARGEM MÉDIA": "0,353"
+  },
+  {
+    "MUNICIPIO": "PARAGUACU PAULISTA",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,089",
+    "DESVIO PADRÃO": "0,062",
+    "PREÇO MÍNIMO": "2,999",
+    "PREÇO MÁXIMO": "3,179",
+    "MARGEM MÉDIA": "0,298"
+  },
+  {
+    "MUNICIPIO": "PAULINIA",
+    "POSTOS": 15,
+    "PREÇO MÉDIO": "3,014",
+    "DESVIO PADRÃO": "0,067",
+    "PREÇO MÍNIMO": "2,959",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,296"
+  },
+  {
+    "MUNICIPIO": "PINDAMONHANGABA",
+    "POSTOS": 7,
+    "PREÇO MÉDIO": "3,017",
+    "DESVIO PADRÃO": "0,059",
+    "PREÇO MÍNIMO": "2,99",
+    "PREÇO MÁXIMO": "3,149",
+    "MARGEM MÉDIA": "0,243"
+  },
+  {
+    "MUNICIPIO": "PIRACICABA",
+    "POSTOS": 19,
+    "PREÇO MÉDIO": "3,066",
+    "DESVIO PADRÃO": "0,106",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,272"
+  },
+  {
+    "MUNICIPIO": "PIRASSUNUNGA",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,013",
+    "DESVIO PADRÃO": "0,071",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,256"
+  },
+  {
+    "MUNICIPIO": "POA",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,118",
+    "DESVIO PADRÃO": "0,113",
+    "PREÇO MÍNIMO": "2,879",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,39"
+  },
+  {
+    "MUNICIPIO": "PORTO FERREIRA",
+    "POSTOS": 7,
+    "PREÇO MÉDIO": "3,095",
+    "DESVIO PADRÃO": "0,172",
+    "PREÇO MÍNIMO": "2,89",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,381"
+  },
+  {
+    "MUNICIPIO": "PRAIA GRANDE",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,132",
+    "DESVIO PADRÃO": "0,096",
+    "PREÇO MÍNIMO": "2,969",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,38"
+  },
+  {
+    "MUNICIPIO": "PRESIDENTE PRUDENTE",
+    "POSTOS": 20,
+    "PREÇO MÉDIO": "2,856",
+    "DESVIO PADRÃO": "0,058",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "2,999",
+    "MARGEM MÉDIA": "0,171"
+  },
+  {
+    "MUNICIPIO": "PRESIDENTE VENCESLAU",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,143",
+    "DESVIO PADRÃO": "0,085",
+    "PREÇO MÍNIMO": "2,949",
+    "PREÇO MÁXIMO": "3,228",
+    "MARGEM MÉDIA": "0,387"
+  },
+  {
+    "MUNICIPIO": "RIBEIRAO PIRES",
+    "POSTOS": 8,
+    "PREÇO MÉDIO": "3,122",
+    "DESVIO PADRÃO": "0,102",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,389"
+  },
+  {
+    "MUNICIPIO": "RIBEIRAO PRETO",
+    "POSTOS": 34,
+    "PREÇO MÉDIO": "3,004",
+    "DESVIO PADRÃO": "0,109",
+    "PREÇO MÍNIMO": "2,879",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,313"
+  },
+  {
+    "MUNICIPIO": "RIO CLARO",
+    "POSTOS": 15,
+    "PREÇO MÉDIO": "3,162",
+    "DESVIO PADRÃO": "0,12",
+    "PREÇO MÍNIMO": "2,929",
+    "PREÇO MÁXIMO": "3,299",
+    "MARGEM MÉDIA": "0,399"
+  },
+  {
+    "MUNICIPIO": "SALTO",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,045",
+    "DESVIO PADRÃO": "0,052",
+    "PREÇO MÍNIMO": "2,979",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,39"
+  },
+  {
+    "MUNICIPIO": "SANTA BARBARA D'OESTE",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,022",
+    "DESVIO PADRÃO": "0,077",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,327"
+  },
+  {
+    "MUNICIPIO": "SANTA CRUZ DO RIO PARDO",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "2,994",
+    "DESVIO PADRÃO": "0,043",
+    "PREÇO MÍNIMO": "2,929",
+    "PREÇO MÁXIMO": "3,09",
+    "MARGEM MÉDIA": "0,276"
+  },
+  {
+    "MUNICIPIO": "SANTO ANDRE",
+    "POSTOS": 26,
+    "PREÇO MÉDIO": "3,127",
+    "DESVIO PADRÃO": "0,099",
+    "PREÇO MÍNIMO": "2,889",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,352"
+  },
+  {
+    "MUNICIPIO": "SANTOS",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,17",
+    "DESVIO PADRÃO": "0,186",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,499",
+    "MARGEM MÉDIA": "0,482"
+  },
+  {
+    "MUNICIPIO": "SAO BERNARDO DO CAMPO",
+    "POSTOS": 19,
+    "PREÇO MÉDIO": "3,086",
+    "DESVIO PADRÃO": "0,15",
+    "PREÇO MÍNIMO": "2,869",
+    "PREÇO MÁXIMO": "3,497",
+    "MARGEM MÉDIA": "0,349"
+  },
+  {
+    "MUNICIPIO": "SAO CAETANO DO SUL",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,029",
+    "DESVIO PADRÃO": "0,148",
+    "PREÇO MÍNIMO": "2,899",
+    "PREÇO MÁXIMO": "3,399",
+    "MARGEM MÉDIA": "0,323"
+  },
+  {
+    "MUNICIPIO": "SAO CARLOS",
+    "POSTOS": 21,
+    "PREÇO MÉDIO": "2,887",
+    "DESVIO PADRÃO": "0,118",
+    "PREÇO MÍNIMO": "2,779",
+    "PREÇO MÁXIMO": "3,148",
+    "MARGEM MÉDIA": "0,17"
+  },
+  {
+    "MUNICIPIO": "SAO JOAO DA BOA VISTA",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,012",
+    "DESVIO PADRÃO": "0,105",
+    "PREÇO MÍNIMO": "2,82",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,331"
+  },
+  {
+    "MUNICIPIO": "SAO JOSE DO RIO PRETO",
+    "POSTOS": 23,
+    "PREÇO MÉDIO": "2,916",
+    "DESVIO PADRÃO": "0,058",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "2,999",
+    "MARGEM MÉDIA": "0,193"
+  },
+  {
+    "MUNICIPIO": "SAO JOSE DOS CAMPOS",
+    "POSTOS": 17,
+    "PREÇO MÉDIO": "2,986",
+    "DESVIO PADRÃO": "0,099",
+    "PREÇO MÍNIMO": "2,849",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,242"
+  },
+  {
+    "MUNICIPIO": "SAO PAULO",
+    "POSTOS": 180,
+    "PREÇO MÉDIO": "3,094",
+    "DESVIO PADRÃO": "0,146",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,999",
+    "MARGEM MÉDIA": "0,338"
+  },
+  {
+    "MUNICIPIO": "SAO ROQUE",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,091",
+    "DESVIO PADRÃO": "0,091",
+    "PREÇO MÍNIMO": "2,99",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,348"
+  },
+  {
+    "MUNICIPIO": "SAO VICENTE",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,137",
+    "DESVIO PADRÃO": "0,174",
+    "PREÇO MÍNIMO": "2,879",
+    "PREÇO MÁXIMO": "3,562",
+    "MARGEM MÉDIA": "0,347"
+  },
+  {
+    "MUNICIPIO": "SERTAOZINHO",
+    "POSTOS": 11,
+    "PREÇO MÉDIO": "3,019",
+    "DESVIO PADRÃO": "0,072",
+    "PREÇO MÍNIMO": "2,92",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,283"
+  },
+  {
+    "MUNICIPIO": "SOROCABA",
+    "POSTOS": 26,
+    "PREÇO MÉDIO": "3,017",
+    "DESVIO PADRÃO": "0,096",
+    "PREÇO MÍNIMO": "2,889",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,284"
+  },
+  {
+    "MUNICIPIO": "SUMARE",
+    "POSTOS": 16,
+    "PREÇO MÉDIO": "2,968",
+    "DESVIO PADRÃO": "0,14",
+    "PREÇO MÍNIMO": "2,699",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,183"
+  },
+  {
+    "MUNICIPIO": "SUZANO",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,147",
+    "DESVIO PADRÃO": "0,127",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,279",
+    "MARGEM MÉDIA": "0,366"
+  },
+  {
+    "MUNICIPIO": "TABOAO DA SERRA",
+    "POSTOS": 15,
+    "PREÇO MÉDIO": "3,123",
+    "DESVIO PADRÃO": "0,226",
+    "PREÇO MÍNIMO": "2,979",
+    "PREÇO MÁXIMO": "3,899",
+    "MARGEM MÉDIA": "0,453"
+  },
+  {
+    "MUNICIPIO": "TATUI",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "2,993",
+    "DESVIO PADRÃO": "0,12",
+    "PREÇO MÍNIMO": "2,849",
+    "PREÇO MÁXIMO": "3,144",
+    "MARGEM MÉDIA": "0,274"
+  },
+  {
+    "MUNICIPIO": "TAUBATE",
+    "POSTOS": 13,
+    "PREÇO MÉDIO": "3,095",
+    "DESVIO PADRÃO": "0,118",
+    "PREÇO MÍNIMO": "2,849",
+    "PREÇO MÁXIMO": "3,359",
+    "MARGEM MÉDIA": "0,224"
+  },
+  {
+    "MUNICIPIO": "TUPA",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,082",
+    "DESVIO PADRÃO": "0,039",
+    "PREÇO MÍNIMO": "3,049",
+    "PREÇO MÁXIMO": "3,19",
+    "MARGEM MÉDIA": "0,419"
+  },
+  {
+    "MUNICIPIO": "UBATUBA",
+    "POSTOS": 9,
+    "PREÇO MÉDIO": "3,372",
+    "DESVIO PADRÃO": "0,118",
+    "PREÇO MÍNIMO": "3,199",
+    "PREÇO MÁXIMO": "3,499",
+    "MARGEM MÉDIA": "0,484"
+  },
+  {
+    "MUNICIPIO": "VALINHOS",
+    "POSTOS": 14,
+    "PREÇO MÉDIO": "3,01",
+    "DESVIO PADRÃO": "0,064",
+    "PREÇO MÍNIMO": "2,897",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,305"
+  },
+  {
+    "MUNICIPIO": "VARZEA PAULISTA",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "3,029",
+    "DESVIO PADRÃO": "0,073",
+    "PREÇO MÍNIMO": "2,94",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,35"
+  },
+  {
+    "MUNICIPIO": "VINHEDO",
+    "POSTOS": 11,
+    "PREÇO MÉDIO": "3,042",
+    "DESVIO PADRÃO": "0,11",
+    "PREÇO MÍNIMO": "2,83",
+    "PREÇO MÁXIMO": "3,199",
+    "MARGEM MÉDIA": "0,323"
+  },
+  {
+    "MUNICIPIO": "VOTORANTIM",
+    "POSTOS": 10,
+    "PREÇO MÉDIO": "2,99",
+    "DESVIO PADRÃO": "0,101",
+    "PREÇO MÍNIMO": "2,859",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,263"
+  },
+  {
+    "MUNICIPIO": "VOTUPORANGA",
+    "POSTOS": 12,
+    "PREÇO MÉDIO": "3,072",
+    "DESVIO PADRÃO": "0,052",
+    "PREÇO MÍNIMO": "2,939",
+    "PREÇO MÁXIMO": "3,099",
+    "MARGEM MÉDIA": "0,332"
+  }
+]
