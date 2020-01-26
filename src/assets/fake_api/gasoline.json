@@ -1,6 +1,6 @@
 [
   {
-    "MUNICÍPIO": "ADAMANTINA",
+    "MUNICIPIO": "ADAMANTINA",
     "POSTOS": 8,
     "PREÇO MÉDIO": "4,431",
     "DESVIO PADRÃO": "0,076",
@@ -9,7 +9,7 @@
     "MARGEM MÉDIA": "0,431"
   },
   {
-    "MUNICÍPIO": "AMERICANA",
+    "MUNICIPIO": "AMERICANA",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,295",
     "DESVIO PADRÃO": "0,102",
@@ -18,7 +18,7 @@
     "MARGEM MÉDIA": "0,411"
   },
   {
-    "MUNICÍPIO": "AMPARO",
+    "MUNICIPIO": "AMPARO",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,407",
     "DESVIO PADRÃO": "0,066",
@@ -27,7 +27,7 @@
     "MARGEM MÉDIA": "0,407"
   },
   {
-    "MUNICÍPIO": "ARACATUBA",
+    "MUNICIPIO": "ARACATUBA",
     "POSTOS": 25,
     "PREÇO MÉDIO": "4,477",
     "DESVIO PADRÃO": "0,056",
@@ -36,7 +36,7 @@
     "MARGEM MÉDIA": "0,514"
   },
   {
-    "MUNICÍPIO": "ARARAQUARA",
+    "MUNICIPIO": "ARARAQUARA",
     "POSTOS": 18,
     "PREÇO MÉDIO": "4,438",
     "DESVIO PADRÃO": "0,137",
@@ -45,7 +45,7 @@
     "MARGEM MÉDIA": "0,499"
   },
   {
-    "MUNICÍPIO": "ARARAS",
+    "MUNICIPIO": "ARARAS",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,404",
     "DESVIO PADRÃO": "0,083",
@@ -54,7 +54,7 @@
     "MARGEM MÉDIA": "0,483"
   },
   {
-    "MUNICÍPIO": "ASSIS",
+    "MUNICIPIO": "ASSIS",
     "POSTOS": 24,
     "PREÇO MÉDIO": "4,496",
     "DESVIO PADRÃO": "0,141",
@@ -63,7 +63,7 @@
     "MARGEM MÉDIA": "0,463"
   },
   {
-    "MUNICÍPIO": "ATIBAIA",
+    "MUNICIPIO": "ATIBAIA",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,39",
     "DESVIO PADRÃO": "0,15",
@@ -72,7 +72,7 @@
     "MARGEM MÉDIA": "0,463"
   },
   {
-    "MUNICÍPIO": "AVARE",
+    "MUNICIPIO": "AVARE",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,421",
     "DESVIO PADRÃO": "0,052",
@@ -81,7 +81,7 @@
     "MARGEM MÉDIA": "0,448"
   },
   {
-    "MUNICÍPIO": "BARRETOS",
+    "MUNICIPIO": "BARRETOS",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,504",
     "DESVIO PADRÃO": "0,25",
@@ -90,7 +90,7 @@
     "MARGEM MÉDIA": "0,462"
   },
   {
-    "MUNICÍPIO": "BARUERI",
+    "MUNICIPIO": "BARUERI",
     "POSTOS": 18,
     "PREÇO MÉDIO": "4,57",
     "DESVIO PADRÃO": "0,244",
@@ -99,7 +99,7 @@
     "MARGEM MÉDIA": "0,686"
   },
   {
-    "MUNICÍPIO": "BAURU",
+    "MUNICIPIO": "BAURU",
     "POSTOS": 25,
     "PREÇO MÉDIO": "4,269",
     "DESVIO PADRÃO": "0,078",
@@ -108,7 +108,7 @@
     "MARGEM MÉDIA": "0,302"
   },
   {
-    "MUNICÍPIO": "BEBEDOURO",
+    "MUNICIPIO": "BEBEDOURO",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,555",
     "DESVIO PADRÃO": "0,085",
@@ -117,7 +117,7 @@
     "MARGEM MÉDIA": "0,618"
   },
   {
-    "MUNICÍPIO": "BIRIGUI",
+    "MUNICIPIO": "BIRIGUI",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,421",
     "DESVIO PADRÃO": "0,087",
@@ -126,7 +126,7 @@
     "MARGEM MÉDIA": "0,4"
   },
   {
-    "MUNICÍPIO": "BOTUCATU",
+    "MUNICIPIO": "BOTUCATU",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,496",
     "DESVIO PADRÃO": "0,084",
@@ -135,7 +135,7 @@
     "MARGEM MÉDIA": "0,438"
   },
   {
-    "MUNICÍPIO": "BRAGANCA PAULISTA",
+    "MUNICIPIO": "BRAGANCA PAULISTA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,31",
     "DESVIO PADRÃO": "0,118",
@@ -144,7 +144,7 @@
     "MARGEM MÉDIA": "0,32"
   },
   {
-    "MUNICÍPIO": "CACAPAVA",
+    "MUNICIPIO": "CACAPAVA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,305",
     "DESVIO PADRÃO": "0,052",
@@ -153,7 +153,7 @@
     "MARGEM MÉDIA": "0,43"
   },
   {
-    "MUNICÍPIO": "CAMPINAS",
+    "MUNICIPIO": "CAMPINAS",
     "POSTOS": 43,
     "PREÇO MÉDIO": "4,366",
     "DESVIO PADRÃO": "0,163",
@@ -162,7 +162,7 @@
     "MARGEM MÉDIA": "0,422"
   },
   {
-    "MUNICÍPIO": "CARAGUATATUBA",
+    "MUNICIPIO": "CARAGUATATUBA",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,548",
     "DESVIO PADRÃO": "0,099",
@@ -171,7 +171,7 @@
     "MARGEM MÉDIA": "0,663"
   },
   {
-    "MUNICÍPIO": "CARAPICUIBA",
+    "MUNICIPIO": "CARAPICUIBA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,364",
     "DESVIO PADRÃO": "0,067",
@@ -180,7 +180,7 @@
     "MARGEM MÉDIA": "0,453"
   },
   {
-    "MUNICÍPIO": "CATANDUVA",
+    "MUNICIPIO": "CATANDUVA",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,482",
     "DESVIO PADRÃO": "0,08",
@@ -189,7 +189,7 @@
     "MARGEM MÉDIA": "0,556"
   },
   {
-    "MUNICÍPIO": "COSMOPOLIS",
+    "MUNICIPIO": "COSMOPOLIS",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,307",
     "DESVIO PADRÃO": "0,052",
@@ -198,7 +198,7 @@
     "MARGEM MÉDIA": "0,392"
   },
   {
-    "MUNICÍPIO": "COTIA",
+    "MUNICIPIO": "COTIA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,448",
     "DESVIO PADRÃO": "0,133",
@@ -207,7 +207,7 @@
     "MARGEM MÉDIA": "0,526"
   },
   {
-    "MUNICÍPIO": "CRUZEIRO",
+    "MUNICIPIO": "CRUZEIRO",
     "POSTOS": 7,
     "PREÇO MÉDIO": "4,431",
     "DESVIO PADRÃO": "0,095",
@@ -216,7 +216,7 @@
     "MARGEM MÉDIA": "0,473"
   },
   {
-    "MUNICÍPIO": "CUBATAO",
+    "MUNICIPIO": "CUBATAO",
     "POSTOS": 5,
     "PREÇO MÉDIO": "4,688",
     "DESVIO PADRÃO": "0,156",
@@ -225,7 +225,7 @@
     "MARGEM MÉDIA": "0,631"
   },
   {
-    "MUNICÍPIO": "DIADEMA",
+    "MUNICIPIO": "DIADEMA",
     "POSTOS": 16,
     "PREÇO MÉDIO": "4,349",
     "DESVIO PADRÃO": "0,213",
@@ -234,7 +234,7 @@
     "MARGEM MÉDIA": "0,403"
   },
   {
-    "MUNICÍPIO": "DRACENA",
+    "MUNICIPIO": "DRACENA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,428",
     "DESVIO PADRÃO": "0,072",
@@ -243,7 +243,7 @@
     "MARGEM MÉDIA": "0,377"
   },
   {
-    "MUNICÍPIO": "EMBU DAS ARTES",
+    "MUNICIPIO": "EMBU DAS ARTES",
     "POSTOS": 12,
     "PREÇO MÉDIO": "4,481",
     "DESVIO PADRÃO": "0,155",
@@ -252,7 +252,7 @@
     "MARGEM MÉDIA": "0,552"
   },
   {
-    "MUNICÍPIO": "FRANCA",
+    "MUNICIPIO": "FRANCA",
     "POSTOS": 22,
     "PREÇO MÉDIO": "4,558",
     "DESVIO PADRÃO": "0,032",
@@ -261,7 +261,7 @@
     "MARGEM MÉDIA": "0,623"
   },
   {
-    "MUNICÍPIO": "GARCA",
+    "MUNICIPIO": "GARCA",
     "POSTOS": 7,
     "PREÇO MÉDIO": "4,425",
     "DESVIO PADRÃO": "0,077",
@@ -270,7 +270,7 @@
     "MARGEM MÉDIA": "0,556"
   },
   {
-    "MUNICÍPIO": "GUARATINGUETA",
+    "MUNICIPIO": "GUARATINGUETA",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,334",
     "DESVIO PADRÃO": "0,16",
@@ -279,7 +279,7 @@
     "MARGEM MÉDIA": "0,435"
   },
   {
-    "MUNICÍPIO": "GUARUJA",
+    "MUNICIPIO": "GUARUJA",
     "POSTOS": 12,
     "PREÇO MÉDIO": "4,554",
     "DESVIO PADRÃO": "0,171",
@@ -288,7 +288,7 @@
     "MARGEM MÉDIA": "0,601"
   },
   {
-    "MUNICÍPIO": "GUARULHOS",
+    "MUNICIPIO": "GUARULHOS",
     "POSTOS": 25,
     "PREÇO MÉDIO": "4,387",
     "DESVIO PADRÃO": "0,127",
@@ -297,7 +297,7 @@
     "MARGEM MÉDIA": "0,499"
   },
   {
-    "MUNICÍPIO": "HORTOLANDIA",
+    "MUNICIPIO": "HORTOLANDIA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,331",
     "DESVIO PADRÃO": "0,037",
@@ -306,7 +306,7 @@
     "MARGEM MÉDIA": "0,326"
   },
   {
-    "MUNICÍPIO": "IBITINGA",
+    "MUNICIPIO": "IBITINGA",
     "POSTOS": 8,
     "PREÇO MÉDIO": "4,466",
     "DESVIO PADRÃO": "0,064",
@@ -315,7 +315,7 @@
     "MARGEM MÉDIA": "0,551"
   },
   {
-    "MUNICÍPIO": "INDAIATUBA",
+    "MUNICIPIO": "INDAIATUBA",
     "POSTOS": 15,
     "PREÇO MÉDIO": "4,387",
     "DESVIO PADRÃO": "0,099",
@@ -324,7 +324,7 @@
     "MARGEM MÉDIA": "0,431"
   },
   {
-    "MUNICÍPIO": "ITANHAEM",
+    "MUNICIPIO": "ITANHAEM",
     "POSTOS": 6,
     "PREÇO MÉDIO": "4,613",
     "DESVIO PADRÃO": "0,16",
@@ -333,7 +333,7 @@
     "MARGEM MÉDIA": "0,642"
   },
   {
-    "MUNICÍPIO": "ITAPECERICA DA SERRA",
+    "MUNICIPIO": "ITAPECERICA DA SERRA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,369",
     "DESVIO PADRÃO": "0,142",
@@ -342,7 +342,7 @@
     "MARGEM MÉDIA": "0,466"
   },
   {
-    "MUNICÍPIO": "ITAPETININGA",
+    "MUNICIPIO": "ITAPETININGA",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,508",
     "DESVIO PADRÃO": "0,229",
@@ -351,7 +351,7 @@
     "MARGEM MÉDIA": "0,572"
   },
   {
-    "MUNICÍPIO": "ITAPEVA",
+    "MUNICIPIO": "ITAPEVA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,491",
     "DESVIO PADRÃO": "0,252",
@@ -360,7 +360,7 @@
     "MARGEM MÉDIA": "0,525"
   },
   {
-    "MUNICÍPIO": "ITAPIRA",
+    "MUNICIPIO": "ITAPIRA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,342",
     "DESVIO PADRÃO": "0,097",
@@ -369,7 +369,7 @@
     "MARGEM MÉDIA": "0,404"
   },
   {
-    "MUNICÍPIO": "ITAPOLIS",
+    "MUNICIPIO": "ITAPOLIS",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,474",
     "DESVIO PADRÃO": "0,052",
@@ -378,7 +378,7 @@
     "MARGEM MÉDIA": "0,489"
   },
   {
-    "MUNICÍPIO": "ITAQUAQUECETUBA",
+    "MUNICIPIO": "ITAQUAQUECETUBA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,489",
     "DESVIO PADRÃO": "0,032",
@@ -387,7 +387,7 @@
     "MARGEM MÉDIA": "0,572"
   },
   {
-    "MUNICÍPIO": "ITATIBA",
+    "MUNICIPIO": "ITATIBA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,352",
     "DESVIO PADRÃO": "0,112",
@@ -396,7 +396,7 @@
     "MARGEM MÉDIA": "0,367"
   },
   {
-    "MUNICÍPIO": "ITU",
+    "MUNICIPIO": "ITU",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,385",
     "DESVIO PADRÃO": "0,134",
@@ -405,7 +405,7 @@
     "MARGEM MÉDIA": "0,416"
   },
   {
-    "MUNICÍPIO": "JABOTICABAL",
+    "MUNICIPIO": "JABOTICABAL",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,448",
     "DESVIO PADRÃO": "0,082",
@@ -414,7 +414,7 @@
     "MARGEM MÉDIA": "0,458"
   },
   {
-    "MUNICÍPIO": "JACAREI",
+    "MUNICIPIO": "JACAREI",
     "POSTOS": 16,
     "PREÇO MÉDIO": "4,285",
     "DESVIO PADRÃO": "0,068",
@@ -423,7 +423,7 @@
     "MARGEM MÉDIA": "0,346"
   },
   {
-    "MUNICÍPIO": "JALES",
+    "MUNICIPIO": "JALES",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,499",
     "DESVIO PADRÃO": "0,098",
@@ -432,7 +432,7 @@
     "MARGEM MÉDIA": "0,481"
   },
   {
-    "MUNICÍPIO": "JAU",
+    "MUNICIPIO": "JAU",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,44",
     "DESVIO PADRÃO": "0,1",
@@ -441,7 +441,7 @@
     "MARGEM MÉDIA": "0,466"
   },
   {
-    "MUNICÍPIO": "JOSE BONIFACIO",
+    "MUNICIPIO": "JOSE BONIFACIO",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,377",
     "DESVIO PADRÃO": "0,192",
@@ -450,7 +450,7 @@
     "MARGEM MÉDIA": "0,437"
   },
   {
-    "MUNICÍPIO": "JUNDIAI",
+    "MUNICIPIO": "JUNDIAI",
     "POSTOS": 22,
     "PREÇO MÉDIO": "4,372",
     "DESVIO PADRÃO": "0,085",
@@ -459,7 +459,7 @@
     "MARGEM MÉDIA": "0,405"
   },
   {
-    "MUNICÍPIO": "LEME",
+    "MUNICIPIO": "LEME",
     "POSTOS": 17,
     "PREÇO MÉDIO": "4,272",
     "DESVIO PADRÃO": "0,133",
@@ -468,7 +468,7 @@
     "MARGEM MÉDIA": "0,407"
   },
   {
-    "MUNICÍPIO": "LIMEIRA",
+    "MUNICIPIO": "LIMEIRA",
     "POSTOS": 23,
     "PREÇO MÉDIO": "4,316",
     "DESVIO PADRÃO": "0,136",
@@ -477,7 +477,7 @@
     "MARGEM MÉDIA": "0,411"
   },
   {
-    "MUNICÍPIO": "LINS",
+    "MUNICIPIO": "LINS",
     "POSTOS": 15,
     "PREÇO MÉDIO": "4,405",
     "DESVIO PADRÃO": "0,09",
@@ -486,7 +486,7 @@
     "MARGEM MÉDIA": "0,397"
   },
   {
-    "MUNICÍPIO": "LORENA",
+    "MUNICIPIO": "LORENA",
     "POSTOS": 8,
     "PREÇO MÉDIO": "4,349",
     "DESVIO PADRÃO": "0,143",
@@ -495,7 +495,7 @@
     "MARGEM MÉDIA": "0,357"
   },
   {
-    "MUNICÍPIO": "MARILIA",
+    "MUNICIPIO": "MARILIA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,384",
     "DESVIO PADRÃO": "0,081",
@@ -504,7 +504,7 @@
     "MARGEM MÉDIA": "0,392"
   },
   {
-    "MUNICÍPIO": "MATAO",
+    "MUNICIPIO": "MATAO",
     "POSTOS": 16,
     "PREÇO MÉDIO": "4,552",
     "DESVIO PADRÃO": "0,049",
@@ -513,7 +513,7 @@
     "MARGEM MÉDIA": "0,597"
   },
   {
-    "MUNICÍPIO": "MAUA",
+    "MUNICIPIO": "MAUA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,376",
     "DESVIO PADRÃO": "0,144",
@@ -522,7 +522,7 @@
     "MARGEM MÉDIA": "0,472"
   },
   {
-    "MUNICÍPIO": "MIRASSOL",
+    "MUNICIPIO": "MIRASSOL",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,285",
     "DESVIO PADRÃO": "0,053",
@@ -531,7 +531,7 @@
     "MARGEM MÉDIA": "0,347"
   },
   {
-    "MUNICÍPIO": "MOCOCA",
+    "MUNICIPIO": "MOCOCA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,351",
     "DESVIO PADRÃO": "0,133",
@@ -540,7 +540,7 @@
     "MARGEM MÉDIA": "0,531"
   },
   {
-    "MUNICÍPIO": "MOGI DAS CRUZES",
+    "MUNICIPIO": "MOGI DAS CRUZES",
     "POSTOS": 20,
     "PREÇO MÉDIO": "4,545",
     "DESVIO PADRÃO": "0,105",
@@ -549,7 +549,7 @@
     "MARGEM MÉDIA": "0,624"
   },
   {
-    "MUNICÍPIO": "MOGI GUACU",
+    "MUNICIPIO": "MOGI GUACU",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,35",
     "DESVIO PADRÃO": "0,143",
@@ -558,7 +558,7 @@
     "MARGEM MÉDIA": "0,494"
   },
   {
-    "MUNICÍPIO": "MOGI MIRIM",
+    "MUNICIPIO": "MOGI MIRIM",
     "POSTOS": 12,
     "PREÇO MÉDIO": "4,26",
     "DESVIO PADRÃO": "0,159",
@@ -567,7 +567,7 @@
     "MARGEM MÉDIA": "0,467"
   },
   {
-    "MUNICÍPIO": "MONTE ALTO",
+    "MUNICIPIO": "MONTE ALTO",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,461",
     "DESVIO PADRÃO": "0,065",
@@ -576,7 +576,7 @@
     "MARGEM MÉDIA": "0,557"
   },
   {
-    "MUNICÍPIO": "OLIMPIA",
+    "MUNICIPIO": "OLIMPIA",
     "POSTOS": 6,
     "PREÇO MÉDIO": "4,547",
     "DESVIO PADRÃO": "0,146",
@@ -585,7 +585,7 @@
     "MARGEM MÉDIA": "0,554"
   },
   {
-    "MUNICÍPIO": "OSASCO",
+    "MUNICIPIO": "OSASCO",
     "POSTOS": 23,
     "PREÇO MÉDIO": "4,392",
     "DESVIO PADRÃO": "0,101",
@@ -594,7 +594,7 @@
     "MARGEM MÉDIA": "0,457"
   },
   {
-    "MUNICÍPIO": "OURINHOS",
+    "MUNICIPIO": "OURINHOS",
     "POSTOS": 16,
     "PREÇO MÉDIO": "4,49",
     "DESVIO PADRÃO": "0,166",
@@ -603,7 +603,7 @@
     "MARGEM MÉDIA": "0,477"
   },
   {
-    "MUNICÍPIO": "PARAGUACU PAULISTA",
+    "MUNICIPIO": "PARAGUACU PAULISTA",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,496",
     "DESVIO PADRÃO": "0,064",
@@ -612,7 +612,7 @@
     "MARGEM MÉDIA": "0,462"
   },
   {
-    "MUNICÍPIO": "PAULINIA",
+    "MUNICIPIO": "PAULINIA",
     "POSTOS": 15,
     "PREÇO MÉDIO": "4,314",
     "DESVIO PADRÃO": "0,085",
@@ -621,7 +621,7 @@
     "MARGEM MÉDIA": "0,38"
   },
   {
-    "MUNICÍPIO": "PINDAMONHANGABA",
+    "MUNICIPIO": "PINDAMONHANGABA",
     "POSTOS": 7,
     "PREÇO MÉDIO": "4,328",
     "DESVIO PADRÃO": "0,049",
@@ -630,7 +630,7 @@
     "MARGEM MÉDIA": "0,346"
   },
   {
-    "MUNICÍPIO": "PIRACICABA",
+    "MUNICIPIO": "PIRACICABA",
     "POSTOS": 19,
     "PREÇO MÉDIO": "4,471",
     "DESVIO PADRÃO": "0,169",
@@ -639,7 +639,7 @@
     "MARGEM MÉDIA": "0,494"
   },
   {
-    "MUNICÍPIO": "PIRASSUNUNGA",
+    "MUNICIPIO": "PIRASSUNUNGA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,377",
     "DESVIO PADRÃO": "0,091",
@@ -648,7 +648,7 @@
     "MARGEM MÉDIA": "0,484"
   },
   {
-    "MUNICÍPIO": "POA",
+    "MUNICIPIO": "POA",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,446",
     "DESVIO PADRÃO": "0,198",
@@ -657,7 +657,7 @@
     "MARGEM MÉDIA": "0,525"
   },
   {
-    "MUNICÍPIO": "PORTO FERREIRA",
+    "MUNICIPIO": "PORTO FERREIRA",
     "POSTOS": 7,
     "PREÇO MÉDIO": "4,339",
     "DESVIO PADRÃO": "0,153",
@@ -666,7 +666,7 @@
     "MARGEM MÉDIA": "0,364"
   },
   {
-    "MUNICÍPIO": "PRAIA GRANDE",
+    "MUNICIPIO": "PRAIA GRANDE",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,365",
     "DESVIO PADRÃO": "0,117",
@@ -675,7 +675,7 @@
     "MARGEM MÉDIA": "0,423"
   },
   {
-    "MUNICÍPIO": "PRESIDENTE PRUDENTE",
+    "MUNICIPIO": "PRESIDENTE PRUDENTE",
     "POSTOS": 20,
     "PREÇO MÉDIO": "4,42",
     "DESVIO PADRÃO": "0,096",
@@ -684,7 +684,7 @@
     "MARGEM MÉDIA": "0,386"
   },
   {
-    "MUNICÍPIO": "PRESIDENTE VENCESLAU",
+    "MUNICIPIO": "PRESIDENTE VENCESLAU",
     "POSTOS": 8,
     "PREÇO MÉDIO": "4,503",
     "DESVIO PADRÃO": "0,135",
@@ -693,7 +693,7 @@
     "MARGEM MÉDIA": "-"
   },
   {
-    "MUNICÍPIO": "RIBEIRAO PIRES",
+    "MUNICIPIO": "RIBEIRAO PIRES",
     "POSTOS": 8,
     "PREÇO MÉDIO": "4,459",
     "DESVIO PADRÃO": "0,166",
@@ -702,7 +702,7 @@
     "MARGEM MÉDIA": "0,525"
   },
   {
-    "MUNICÍPIO": "RIBEIRAO PRETO",
+    "MUNICIPIO": "RIBEIRAO PRETO",
     "POSTOS": 32,
     "PREÇO MÉDIO": "4,392",
     "DESVIO PADRÃO": "0,153",
@@ -711,7 +711,7 @@
     "MARGEM MÉDIA": "0,458"
   },
   {
-    "MUNICÍPIO": "RIO CLARO",
+    "MUNICIPIO": "RIO CLARO",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,449",
     "DESVIO PADRÃO": "0,104",
@@ -720,7 +720,7 @@
     "MARGEM MÉDIA": "0,504"
   },
   {
-    "MUNICÍPIO": "SALTO",
+    "MUNICIPIO": "SALTO",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,398",
     "DESVIO PADRÃO": "0,19",
@@ -729,7 +729,7 @@
     "MARGEM MÉDIA": "0,569"
   },
   {
-    "MUNICÍPIO": "SANTA BARBARA D'OESTE",
+    "MUNICIPIO": "SANTA BARBARA D'OESTE",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,334",
     "DESVIO PADRÃO": "0,092",
@@ -738,7 +738,7 @@
     "MARGEM MÉDIA": "0,434"
   },
   {
-    "MUNICÍPIO": "SANTA CRUZ DO RIO PARDO",
+    "MUNICIPIO": "SANTA CRUZ DO RIO PARDO",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,323",
     "DESVIO PADRÃO": "0,074",
@@ -747,7 +747,7 @@
     "MARGEM MÉDIA": "0,367"
   },
   {
-    "MUNICÍPIO": "SANTO ANDRE",
+    "MUNICIPIO": "SANTO ANDRE",
     "POSTOS": 26,
     "PREÇO MÉDIO": "4,422",
     "DESVIO PADRÃO": "0,146",
@@ -756,7 +756,7 @@
     "MARGEM MÉDIA": "0,471"
   },
   {
-    "MUNICÍPIO": "SANTOS",
+    "MUNICIPIO": "SANTOS",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,434",
     "DESVIO PADRÃO": "0,188",
@@ -765,7 +765,7 @@
     "MARGEM MÉDIA": "0,554"
   },
   {
-    "MUNICÍPIO": "SAO BERNARDO DO CAMPO",
+    "MUNICIPIO": "SAO BERNARDO DO CAMPO",
     "POSTOS": 19,
     "PREÇO MÉDIO": "4,426",
     "DESVIO PADRÃO": "0,176",
@@ -774,7 +774,7 @@
     "MARGEM MÉDIA": "0,487"
   },
   {
-    "MUNICÍPIO": "SAO CAETANO DO SUL",
+    "MUNICIPIO": "SAO CAETANO DO SUL",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,332",
     "DESVIO PADRÃO": "0,177",
@@ -783,7 +783,7 @@
     "MARGEM MÉDIA": "0,431"
   },
   {
-    "MUNICÍPIO": "SAO CARLOS",
+    "MUNICIPIO": "SAO CARLOS",
     "POSTOS": 21,
     "PREÇO MÉDIO": "4,4",
     "DESVIO PADRÃO": "0,065",
@@ -792,7 +792,7 @@
     "MARGEM MÉDIA": "0,369"
   },
   {
-    "MUNICÍPIO": "SAO JOAO DA BOA VISTA",
+    "MUNICIPIO": "SAO JOAO DA BOA VISTA",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,276",
     "DESVIO PADRÃO": "0,113",
@@ -801,7 +801,7 @@
     "MARGEM MÉDIA": "0,387"
   },
   {
-    "MUNICÍPIO": "SAO JOSE DO RIO PRETO",
+    "MUNICIPIO": "SAO JOSE DO RIO PRETO",
     "POSTOS": 23,
     "PREÇO MÉDIO": "4,405",
     "DESVIO PADRÃO": "0,099",
@@ -810,7 +810,7 @@
     "MARGEM MÉDIA": "0,415"
   },
   {
-    "MUNICÍPIO": "SAO JOSE DOS CAMPOS",
+    "MUNICIPIO": "SAO JOSE DOS CAMPOS",
     "POSTOS": 17,
     "PREÇO MÉDIO": "4,238",
     "DESVIO PADRÃO": "0,085",
@@ -819,7 +819,7 @@
     "MARGEM MÉDIA": "0,353"
   },
   {
-    "MUNICÍPIO": "SAO PAULO",
+    "MUNICIPIO": "SAO PAULO",
     "POSTOS": 178,
     "PREÇO MÉDIO": "4,408",
     "DESVIO PADRÃO": "0,199",
@@ -828,7 +828,7 @@
     "MARGEM MÉDIA": "0,484"
   },
   {
-    "MUNICÍPIO": "SAO ROQUE",
+    "MUNICIPIO": "SAO ROQUE",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,408",
     "DESVIO PADRÃO": "0,114",
@@ -837,7 +837,7 @@
     "MARGEM MÉDIA": "0,543"
   },
   {
-    "MUNICÍPIO": "SAO VICENTE",
+    "MUNICIPIO": "SAO VICENTE",
     "POSTOS": 12,
     "PREÇO MÉDIO": "4,459",
     "DESVIO PADRÃO": "0,187",
@@ -846,7 +846,7 @@
     "MARGEM MÉDIA": "0,53"
   },
   {
-    "MUNICÍPIO": "SERTAOZINHO",
+    "MUNICIPIO": "SERTAOZINHO",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,437",
     "DESVIO PADRÃO": "0,094",
@@ -855,7 +855,7 @@
     "MARGEM MÉDIA": "0,466"
   },
   {
-    "MUNICÍPIO": "SOROCABA",
+    "MUNICIPIO": "SOROCABA",
     "POSTOS": 26,
     "PREÇO MÉDIO": "4,306",
     "DESVIO PADRÃO": "0,099",
@@ -864,7 +864,7 @@
     "MARGEM MÉDIA": "0,432"
   },
   {
-    "MUNICÍPIO": "SUMARE",
+    "MUNICIPIO": "SUMARE",
     "POSTOS": 16,
     "PREÇO MÉDIO": "4,315",
     "DESVIO PADRÃO": "0,067",
@@ -873,7 +873,7 @@
     "MARGEM MÉDIA": "0,342"
   },
   {
-    "MUNICÍPIO": "SUZANO",
+    "MUNICIPIO": "SUZANO",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,466",
     "DESVIO PADRÃO": "0,209",
@@ -882,7 +882,7 @@
     "MARGEM MÉDIA": "0,506"
   },
   {
-    "MUNICÍPIO": "TABOAO DA SERRA",
+    "MUNICIPIO": "TABOAO DA SERRA",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,472",
     "DESVIO PADRÃO": "0,253",
@@ -891,7 +891,7 @@
     "MARGEM MÉDIA": "0,638"
   },
   {
-    "MUNICÍPIO": "TATUI",
+    "MUNICIPIO": "TATUI",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,31",
     "DESVIO PADRÃO": "0,11",
@@ -900,7 +900,7 @@
     "MARGEM MÉDIA": "0,356"
   },
   {
-    "MUNICÍPIO": "TAUBATE",
+    "MUNICIPIO": "TAUBATE",
     "POSTOS": 13,
     "PREÇO MÉDIO": "4,32",
     "DESVIO PADRÃO": "0,088",
@@ -909,7 +909,7 @@
     "MARGEM MÉDIA": "0,324"
   },
   {
-    "MUNICÍPIO": "TUPA",
+    "MUNICIPIO": "TUPA",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,496",
     "DESVIO PADRÃO": "0,067",
@@ -918,7 +918,7 @@
     "MARGEM MÉDIA": "0,501"
   },
   {
-    "MUNICÍPIO": "UBATUBA",
+    "MUNICIPIO": "UBATUBA",
     "POSTOS": 9,
     "PREÇO MÉDIO": "4,637",
     "DESVIO PADRÃO": "0,084",
@@ -927,7 +927,7 @@
     "MARGEM MÉDIA": "0,546"
   },
   {
-    "MUNICÍPIO": "VALINHOS",
+    "MUNICIPIO": "VALINHOS",
     "POSTOS": 14,
     "PREÇO MÉDIO": "4,323",
     "DESVIO PADRÃO": "0,075",
@@ -936,7 +936,7 @@
     "MARGEM MÉDIA": "0,368"
   },
   {
-    "MUNICÍPIO": "VARZEA PAULISTA",
+    "MUNICIPIO": "VARZEA PAULISTA",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,305",
     "DESVIO PADRÃO": "0,034",
@@ -945,7 +945,7 @@
     "MARGEM MÉDIA": "0,408"
   },
   {
-    "MUNICÍPIO": "VINHEDO",
+    "MUNICIPIO": "VINHEDO",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,335",
     "DESVIO PADRÃO": "0,111",
@@ -954,7 +954,7 @@
     "MARGEM MÉDIA": "0,357"
   },
   {
-    "MUNICÍPIO": "VOTORANTIM",
+    "MUNICIPIO": "VOTORANTIM",
     "POSTOS": 10,
     "PREÇO MÉDIO": "4,32",
     "DESVIO PADRÃO": "0,081",
@@ -963,7 +963,7 @@
     "MARGEM MÉDIA": "0,375"
   },
   {
-    "MUNICÍPIO": "VOTUPORANGA",
+    "MUNICIPIO": "VOTUPORANGA",
     "POSTOS": 11,
     "PREÇO MÉDIO": "4,464",
     "DESVIO PADRÃO": "0,047",
