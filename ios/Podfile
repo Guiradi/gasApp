@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'app' do
-  # Pods for app
+target 'gasApp' do
+  # Pods for gasApp
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -34,7 +34,7 @@ target 'app' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'appTests' do
+  target 'gasAppTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -42,10 +42,10 @@ target 'app' do
   use_native_modules!
 end
 
-target 'app-tvOS' do
-  # Pods for app-tvOS
+target 'gasApp-tvOS' do
+  # Pods for gasApp-tvOS
 
-  target 'app-tvOSTests' do
+  target 'gasApp-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end
