@@ -27,7 +27,7 @@ export default ({navigation: {navigate}}) => {
           );
 
           const cityObj = data.results[0].address_components.find(x =>
-            x.types.includes('locality'),
+            x.types.includes('administrative_area_level_2'),
           );
 
           navigate('calc', {cityObj, alcoholConsumption, gasConsumption});
