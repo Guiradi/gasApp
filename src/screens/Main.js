@@ -31,7 +31,7 @@ export default ({navigation: {navigate}}) => {
 
         navigate('calc', {cityObj, alcoholConsumption, gasConsumption});
       },
-      error => console.log(error),
+      error => alert(error),
       {enableHighAccuracy: false, timeout: 20000, maximumAge: 1000},
     );
   }, [alcoholConsumption, gasConsumption, navigate]);
