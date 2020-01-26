@@ -5,17 +5,18 @@ import styles from '../assets/css/styles';
 
 import api from '../assets/fake_api';
 
+const normalizeString = value =>
+  value
+    .split(' ')
+    .join('')
+    .toUpperCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '');
+
 const getGasValue = (city, type, setter) => {
   const gasTypeValues = api[type];
   const cityGasInfo = gasTypeValues.find(
-    x =>
-      x['MUNICIPIO'] ===
-      city
-        .split(' ')
-        .join('')
-        .toUpperCase()
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, ''),
+    x => normalizeString(x['MUNICIPIO']) === normalizeString(city),
   );
 
   if (cityGasInfo) {

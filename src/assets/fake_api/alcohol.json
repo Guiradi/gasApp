@@ -153,6 +153,14 @@
     "MARGEM MÉDIA": "0,404"
   },
   {
+    "MUNICIPIO": "CAIEIRAS",
+    "PREÇO MÉDIO": "3,094",
+    "DESVIO PADRÃO": "0,146",
+    "PREÇO MÍNIMO": "2,799",
+    "PREÇO MÁXIMO": "3,999",
+    "MARGEM MÉDIA": "0,338"
+  },
+  {
     "MUNICIPIO": "CAMPINAS",
     "POSTOS": 43,
     "PREÇO MÉDIO": "3,032",
